@@ -6,11 +6,11 @@
         <div class="container-fluid">
             <div class="row mb-2">
                 <div class="col-sm-6">
-
+<<<<<<< HEAD
                     <h1 class="m-0">{{ __('Employee') }}</h1>
-
+=======
                     <h1 class="m-0" >{{ __('Employee') }}</h1>
-
+>>>>>>> 241064f4f49499904a101cfa1ef9c1f735c8d55e
                 </div><!-- /.col -->
             </div><!-- /.row -->
         </div><!-- /.container-fluid -->
@@ -23,11 +23,11 @@
             <div class="row">
                 <div class="col-lg-12">
 
-
+<<<<<<< HEAD
                     <div class="alert alert-info">
-
+=======
                     <div class="alert alert-info" style="background-color: green;">
-
+>>>>>>> 241064f4f49499904a101cfa1ef9c1f735c8d55e
                     Employee Table
                     </div>
 
