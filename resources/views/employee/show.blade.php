@@ -9,7 +9,7 @@
 
                     <h1 class="m-0">{{ __('Employee') }}</h1>
 
-                    <h1 class="m-0" >{{ __('Employee') }}</h1>
+             
 
                 </div><!-- /.col -->
             </div><!-- /.row -->
@@ -26,7 +26,11 @@
 
                     <div class="alert alert-info">
 
+
                     <div class="alert alert-info" style="background-color: red;">
+
+
+                 
 
                     Employee Table
                     </div>
