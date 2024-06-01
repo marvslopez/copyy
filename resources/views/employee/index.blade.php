@@ -23,7 +23,11 @@
         <div class="row justify-content-center">
             <div class="col-md-8">
                 <div class="card">
+
                     <div class="card-header" style="background-color:grey;">  {{ __('add New Employee') }}</div>
+
+                    <div class="card-header">{{ __('Add New Employee') }}</div>
+
 
                     <div class="card-body" style="background-color: #f2f2f2;">
                         <form action = "{{url('employee')}}" method="POST">

@@ -6,7 +6,11 @@
         <div class="container-fluid">
             <div class="row mb-2">
                 <div class="col-sm-6">
+
                     <h1 class="m-0">{{ __('Employee') }}</h1>
+
+                    <h1 class="m-0" >{{ __('Employee') }}</h1>
+
                 </div><!-- /.col -->
             </div><!-- /.row -->
         </div><!-- /.container-fluid -->
@@ -19,7 +23,11 @@
             <div class="row">
                 <div class="col-lg-12">
 
+
                     <div class="alert alert-info">
+
+                    <div class="alert alert-info" style="background-color: green;">
+
                     Employee Table
                     </div>
 
