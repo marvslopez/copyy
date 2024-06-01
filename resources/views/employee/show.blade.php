@@ -27,7 +27,7 @@
                     <div class="alert alert-info">
 
 
-                    <div class="alert alert-info" style="background-color: red;">
+                    <div class="alert alert-info" style="background-color: blue;">
 
 
                  
